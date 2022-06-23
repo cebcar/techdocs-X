@@ -1,4 +1,4 @@
 # techdocs
 our current Technical Documentation
 
-Umbrella: Falcon (~/fal)
+current umbrella: falcon
