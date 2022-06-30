@@ -10,6 +10,8 @@ shell tool @ /usr/bin/git<br/>
 
 ### **Git Configuration**<br/>
 
+#### gitconfig
+set name and email; use GitHub-supplied address at Settings: Emails : Keep my email addresses private
 #### gitignore
 - initial lines:
 ```.gitignore
