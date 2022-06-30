@@ -4,13 +4,13 @@ WebApp @ https://github.com<br/>
 *provides hosting for software development and version control using Git*<br/>
 **Documentation**: %
 ### GitHub **Configuration**
-Settings<br>
+##### Settings<br>
 *click profile image; select Settings*
-- Emails
-  - primary: my cox
-  - backup: our gmail
-  - [+] Keep my email addresses private
-  - [+] Block command line pushes that expose my email
+Emails
+- primary: my cox
+- backup: our gmail
+- [+] Keep my email addresses private
+- [+] Block command line pushes that expose my email
 ### GitHub **Customization &amp; Automation**: %
 ### GitHub **Shortcuts**: %
 
