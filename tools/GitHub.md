@@ -36,6 +36,7 @@ GitHub : ‘cebcar’ : New
 - README.md: check header
 
 ### Clone Repository
+> cd ~
 > git clone https://carolclark:{githubPAT}@github.com/cebcar/{repoName}.git
 
 ### OAuth Tokens
