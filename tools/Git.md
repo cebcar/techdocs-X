@@ -53,7 +53,7 @@ git core.attributesfile:
 - amend a commit
   - if changing content, make desired changes first; then
   > git amend
-  > git commit --amend [--no-edit]<br><br>
+  > git commit --amend [--no-edit]<br>
     - edit commit message if indicated
  
 - squash last N commits
