@@ -10,8 +10,6 @@ shell tool @ /usr/bin/git<br/>
 
 ### **Git Configuration**<br/>
 
-#### gitconfig
-set name and email; use GitHub-supplied address at Settings: Emails : Keep my email addresses private
 #### gitignore
 - initial lines:
 ```.gitignore
@@ -50,15 +48,16 @@ git core.attributesfile:
 
 ### Commits
 - show message for specified commit
-> git log --format=%B -n 1 &lt;hash&gt;
+> git log --format=%B -n 1 &lt;hash&gt;<br><br>
 
 - amend a commit
   - if changing content, make desired changes first; then
   > git amend
-  > git commit --amend [--no-edit]<br><br>
+  > git commit --amend [--no-edit]<br>
     - edit commit message if indicated
-<!-- TODO ..squash commits.. (TEST and expand) -->
-<!-- > git rebase --interactive HEAD~n -->
+ 
+- rebase last N commits - can be used to squash
+> git rebase --interactive HEAD~N
 
 ### Stashes
 - stash away the changes in a working directory
