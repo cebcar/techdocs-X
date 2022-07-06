@@ -26,7 +26,7 @@ GitHub : ‘cebcar’ : New
 - merge
   - [+] Allow merge commits
   - [-] Allow squash merging
-  - [-] Allow rebase merging <br><br>
+  - [+] Allow rebase merging <br><br>
 
 - repository settings:
   - turn off:
